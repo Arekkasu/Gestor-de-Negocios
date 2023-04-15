@@ -1,2 +1,4 @@
-name_product,price,quantity
-Manzana,500,747
+id,name_product,price,quantity
+1,Manzana,500,3
+2,Pera,500,1
+3,Naranja,300,-2
